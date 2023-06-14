@@ -1,6 +1,7 @@
 // Thank you for little script from Box Hacker : http://boxhacker.com/blog/2011/05/23/a-little-spritesheet-script-for-photshop/
 // And Laying out celled sprites & Photoshop automation article by Mark McCoy in GarageGames : http://www.garagegames.com/community/blogs/view/11527
 // Modify by Nattaworn Tancharoen : 23/08/2012
+// Version : 1.0.0.0
 
 if( BridgeTalk.appName == "photoshop" )
 {
