@@ -6,5 +6,9 @@ ltSS : Layer to Sprite Sheet
 โดยตอนแรกเขียนขึ้นนานแล้ว ตั้งแต่ปี 2012 โดยเขียนลงใน Blog อยู่ที่ http://zardokar.blogspot.com/2012/08/sprite-sheet-photoshop.html
 แต่เพิ่งเอามาลงใน GitHub
 
+Guide in THAI version
+How to use : [Link](http://zardokar.blogspot.com/2012/08/sprite-sheet-photoshop.html)
+How to split line : [Link](http://zardokar.blogspot.com/2012/08/sprite-sheet.html)
+
 
 
